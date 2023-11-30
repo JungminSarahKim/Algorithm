@@ -34,6 +34,7 @@ public class P1152 {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(reader.readLine(), " ");
         System.out.println(st.countTokens());
+
     }
 
 }
